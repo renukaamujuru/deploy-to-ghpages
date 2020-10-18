@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/deploy-to-ghpages/static/css/main.5f361e03.chunk.css",
+    "main.js": "/deploy-to-ghpages/static/js/main.e6806b90.chunk.js",
+    "main.js.map": "/deploy-to-ghpages/static/js/main.e6806b90.chunk.js.map",
+    "runtime-main.js": "/deploy-to-ghpages/static/js/runtime-main.62c951d2.js",
+    "runtime-main.js.map": "/deploy-to-ghpages/static/js/runtime-main.62c951d2.js.map",
+    "static/js/2.20689430.chunk.js": "/deploy-to-ghpages/static/js/2.20689430.chunk.js",
+    "static/js/2.20689430.chunk.js.map": "/deploy-to-ghpages/static/js/2.20689430.chunk.js.map",
+    "index.html": "/deploy-to-ghpages/index.html",
+    "precache-manifest.f53e2f2456b126f8cf4f1b44ddf74673.js": "/deploy-to-ghpages/precache-manifest.f53e2f2456b126f8cf4f1b44ddf74673.js",
+    "service-worker.js": "/deploy-to-ghpages/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/deploy-to-ghpages/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.20689430.chunk.js.LICENSE.txt": "/deploy-to-ghpages/static/js/2.20689430.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62c951d2.js",
+    "static/js/2.20689430.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e6806b90.chunk.js"
+  ]
+}
